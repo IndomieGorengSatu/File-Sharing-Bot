@@ -25,10 +25,6 @@
       "description": "Paste your mongo db url",
       "value": "url"
     },
-    "DATABASE_NAME":{
-      "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
-    },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
       "value": ""
