@@ -7,7 +7,6 @@ from config import (
     APP_ID,
     CHANNEL_ID,
     DB_URI,
-    DB_NAME,
     FORCE_MSG,
     FORCE_SUB_CHANNEL,
     OWNER_ID,
@@ -27,7 +26,6 @@ APP_ID = <code>{APP_ID}</code>
 API_HASH = <code>{API_HASH}</code>
 TG_BOT_TOKEN = <code>{TG_BOT_TOKEN}</code>
 DATABASE_URL = <code>{DB_URI}</code>
-DATABASE_NAME = <code>{DB_NAME}</code>
 OWNER_ID = <code>{OWNER_ID}</code>
 ADMINS = <code>{ADMINS}</code>
     
